@@ -1,2 +1,2 @@
-# random-uk-town
-quick vibecoded thing that gets a random uk town name
+# Random UK Town
+This site gives a random place name in the UK. The data is from Wikidata (any item tagged with being an instance of a village, town, or city and also being in the UK), and the HTML was made by ChatGPT. As the data is public domain and the script is AI, I take no personal claim over these files. I just find some of these places absurd and thought it would be funny to get a random one.
